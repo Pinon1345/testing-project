@@ -197,7 +197,7 @@ export default function HomePage() {
             <div className="w-9 h-9 rounded-xl bg-emerald-600 flex items-center justify-center text-white shadow-md shadow-emerald-600/30">
               <Zap className="w-5 h-5 fill-current" />
             </div>
-            <span>App<span className="text-emerald-600 dark:text-emerald-500">Vault</span></span>
+            <span>Play<span className="text-emerald-600 dark:text-emerald-500">Store</span></span>
           </Link>
 
           {/* Quick Search Bar (Header View) */}
