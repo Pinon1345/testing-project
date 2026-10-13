@@ -280,7 +280,7 @@ export default function HomePage() {
                 <span>NeonByte Studios</span> • <span>★ 4.9 Rating</span>
               </div>
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight">
-                CyberDeck Solitaire
+                CyberDeck Solitaire Rawnak
               </h1>
               <p className="text-slate-300 text-sm sm:text-base line-clamp-3">
                 Experience the next generation of card gaming. Play against dynamic AI engines, participate in weekly competitive leaderboards, and unlock cyberdeck themes.
